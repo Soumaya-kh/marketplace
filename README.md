@@ -1,4 +1,4 @@
-# marketplace
+# Marketplace
 Classifiez automatiquement des biens de consommation
 
 Votre entreprise cherche à lancer une place de marché e-commerce. Vous devrez tester la faisabilité d'un moteur de classification de biens de consommation.
